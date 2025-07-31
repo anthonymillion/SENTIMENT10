@@ -1,6 +1,5 @@
 streamlit
-yfinance
-fredapi
-requests
-cot_reports
 pandas
+yfinance
+requests
+streamlit-autorefresh
